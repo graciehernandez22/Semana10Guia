@@ -3,13 +3,18 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/RegistrarPersonaMVC/web/noexito.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/RegistrarPersonaMVC/web/Modificar.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/RegistrarPersonaMVC/web/btnEliminar.jsp</file>
             <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/RegistrarPersonaMVC/web/index.jsp</file>
-            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/RegistrarPersonaMVC/src/java/controlador/Recibir.java</file>
             <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/RegistrarPersonaMVC/src/java/modelo/Persona.java</file>
             <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/RegistrarPersonaMVC/src/java/controlador/Mostrar.java</file>
-            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/RegistrarPersonaMVC/web/exito.jsp</file>
-            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/RegistrarPersonaMVC/web/mostrartodo.jsp</file>
-            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/RegistrarPersonaMVC/web/noexisto.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/RegistrarPersonaMVC/web/Eliminar.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/RegistrarPersonaMVC/src/java/controlador/Modificar.java</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/RegistrarPersonaMVC/web/btnModificar.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/RegistrarPersonaMVC/web/noModificar.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/RegistrarPersonaMVC/web/noEliminar.jsp</file>
+            <file>file:/C:/Users/HP/OneDrive/Documentos/NetBeansProjects/RegistrarPersonaMVC/src/java/controlador/Eliminar.java</file>
         </group>
     </open-files>
 </project-private>
